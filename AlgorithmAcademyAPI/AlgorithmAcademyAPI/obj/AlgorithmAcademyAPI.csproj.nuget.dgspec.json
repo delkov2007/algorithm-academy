@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\USER\\source\\repos\\algorithm-academy\\AlgorithmAcademyAPI\\AlgorithmAcademyAPI\\AlgorithmAcademyAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\USER\\source\\repos\\algorithm-academy\\AlgorithmAcademyAPI\\AlgorithmAcademyAPI\\AlgorithmAcademyAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\algorithm-academy\\AlgorithmAcademyAPI\\AlgorithmAcademyAPI\\AlgorithmAcademyAPI.csproj",
+        "projectName": "AlgorithmAcademyAPI",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\algorithm-academy\\AlgorithmAcademyAPI\\AlgorithmAcademyAPI\\AlgorithmAcademyAPI.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\algorithm-academy\\AlgorithmAcademyAPI\\AlgorithmAcademyAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/bg29l5iGMjC9iVlwqQxaVI7QpVFtXGrDjEgVUenJ6P2zy8Dfvr/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
